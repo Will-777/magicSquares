@@ -11,7 +11,7 @@ Magic Squares are the teleporters in the Grid World
 either advance the agent forward or backward.
 
 Some additional notes
--[Part 1]
+- [Part 1]
 To make your own environment you need
   01. initialize
   02. reset
