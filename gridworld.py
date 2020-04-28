@@ -120,6 +120,7 @@ if __name__ == '__main__':
 
     numGames = 50000
     totalRewards = np.zeros(numGames)
+    env.render() # comment this line if you want to remove render()
     for i in range(numGames):
         if i % 5000 == 0:
             print('starting game ', i)
