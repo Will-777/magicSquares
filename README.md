@@ -1,11 +1,11 @@
 # magicSquares
 magic squares is Reinforcement Learning tutorial from "philtabor"
 April 2019
-https://github.com/philtabor/Youtube-Code-Repository/blob/master/ReinforcementLearning/gridworld.py
+- https://github.com/philtabor/Youtube-Code-Repository/blob/master/ReinforcementLearning/gridworld.py
 
 Videos Tutorial here :
-[Part1] https://www.youtube.com/watch?v=vmrqpHldAQ0
-[Part2] https://www.youtube.com/watch?v=w1jd0Dpbc2o
+- [Part1] https://www.youtube.com/watch?v=vmrqpHldAQ0
+- [Part2] https://www.youtube.com/watch?v=w1jd0Dpbc2o
 
 Magic Squares are the teleporters in the Grid World
 either advance the agent forward or backward.
