@@ -25,7 +25,7 @@ To make your own environment you need
       as well as some debug information 
   09. a way to resetting and printing out your invironment to ther terminal
 
--[Part 2]
-Fire this baby up with a Q&N learning Algorithm
- - https://en.wikipedia.org/wiki/Q-learning
+- [Part 2]
+ Fire this baby up with a Q&N learning Algorithm
+https://en.wikipedia.org/wiki/Q-learning
 
