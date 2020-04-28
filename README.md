@@ -2,6 +2,7 @@
 magic squares is Reinforcement Learning tutorial from "philtabor"
 April 2019
 - https://github.com/philtabor/Youtube-Code-Repository/blob/master/ReinforcementLearning/gridworld.py
+- https://www.neuralnet.ai/designing-your-own-open-ai-gym-compatible-reinforcement-learning-environment/
 
 ### Videos Tutorial here :
 - [Part1] https://www.youtube.com/watch?v=vmrqpHldAQ0
